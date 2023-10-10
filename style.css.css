@@ -1,0 +1,174 @@
+body {
+    background: radial-gradient(blue 30%,rgb(250, 3, 45) 30%,blue );
+    margin: 8% 20% 5% 20%;
+}
+.home {
+    display: flex;
+    background-color: white;
+    height: 400px;
+    padding-top: 6%;
+    padding-left: 20%;
+}
+.sec{
+    background-color: rgba(255, 255, 255, 0.945);
+    display: flex;
+    border: 2px solid ;
+    border-bottom: 5px;
+    height: 300px;
+    width: 500px;
+    color: white;
+    border-radius: 20px;
+    justify-content: center;
+    text-align: center;
+    /* box-shadow: 5px , black; */
+    /* padding: 10px; */
+}
+.box1 {
+    display: inline;
+    background: linear-gradient(pink,blue);
+    width: 300px;
+    height: 350px;
+    color: white;
+    border-radius: 20px;
+    padding-top: 10px;
+    text-align: center;   
+}
+.sect {
+    background-color: rgba(255, 255, 255, 0.945);
+    box-shadow: 5px 5px 20px #a09797;
+    width: 300px;
+    height: 360px;
+    color: rgb(8, 8, 8);
+    border-radius: 0px 20px 20px 0px;
+    text-align: start;
+    padding: 0px 0px 0px 20px;
+}
+.circle {
+    color: #dad8d8;
+    margin: 10px 20px 20px 70px;
+    padding: 5px;
+    height: 90px;
+    width: 90px;
+    left: 50px;
+    background: radial-gradient(rgb(29, 29, 90),blue);
+    border-radius: 200px;
+}
+.circle span {
+    font-size: 40px;
+    font-style:italic;
+    color: white
+}
+.content {
+    color: #dad8d8;
+    word-spacing: 0%;
+}
+.content span {
+    color: white;
+    font-size: 20px;
+}
+.box2 {
+    display: flex;
+    height: 40px;
+    width: 220px;
+    padding: 0px 0px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    align-items: center;
+    justify-items: center;
+    background-color: bisque;
+    color: red;
+}
+.align {
+    padding: 0px 0px 5px 10px;
+}
+.box2 span {
+    padding: 0px 0px 5px 65px;
+    color: black;
+    font-size: 20px;
+}
+.king {
+    color: gray;
+}
+.box3 {
+    display: flex;
+    height: 40px;
+    width: 220px;
+    padding: 0px 0px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    align-items: center;
+    justify-items: center;
+    background-color: rgb(252, 252, 196);
+    color: orange;
+}
+.align1 {
+    padding: 0px 0px 5px 10px;
+}
+.box3 span {
+    padding: 0px 0px 5px 65px;
+    color: black;
+    font-size: 20px;
+}
+.king1 {
+    color: gray;
+}
+.box4 {
+    display: flex;
+    height: 40px;
+    width: 220px;
+    padding: 0px 0px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    align-items: center;
+    justify-items: center;
+    background-color: rgb(189, 253, 253);
+    color: darkcyan;
+}
+.align2 {
+    padding: 0px 0px 5px 10px;
+}
+.box4 span {
+    padding: 0px 0px 5px 80px;
+    color: black;
+    font-size: 20px;
+}
+.king2 {
+    color: gray;
+}
+.box5 {
+    display: flex;
+    height: 40px;
+    width: 220px;
+    padding: 0px 0px 0px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+    align-items: center;
+    justify-items: center;
+    background-color: rgb(230, 230, 252);
+    color: darkblue;
+}
+.align3 {
+    padding: 0px 0px 5px 10px;
+}
+.box5 span {
+    padding: 0px 0px 5px 80px;
+    color: black;
+    font-size: 20px;
+}
+.king3 {
+    color: gray;
+}
+.btn {
+    display: flex;
+    height: 30px;
+    width: 150px;
+    padding: 3px 0px 3px 80px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 20px;
+    align-items: center;
+    justify-items: center;
+    background-color: black;
+    color: white;
+}
+ 
+     
